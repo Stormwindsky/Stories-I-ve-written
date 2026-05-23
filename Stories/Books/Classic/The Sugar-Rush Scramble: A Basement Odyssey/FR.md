@@ -1,6 +1,7 @@
 # La Cavale de l'Accroc au Sucre : Une Épopée de Sous-Sol
 **Auteur :** Stormwindsky
 **Licence :** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+**Aussi disponible sous la license:** [OGA-BY 4.0](https://opengameart.org/content/oga-by-40-faq)
 
 ---
 
