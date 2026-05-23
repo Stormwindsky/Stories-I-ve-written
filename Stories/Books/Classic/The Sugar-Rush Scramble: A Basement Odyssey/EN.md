@@ -1,7 +1,7 @@
 # The Sugar-Rush Scramble: A Basement Odyssey
 **Author:** Stormwindsky
 **License:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
-
+**License:** [OGA-BY 4.0](https://opengameart.org/content/oga-by-40-faq)
 ---
 
 ## Introduction
